@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-    <img src="https://github.com/Genesis-The-Beginning/.github/blob/main/HyperBeam.png" align="center"
+    <img src="https://github.com/IonioBeam/.github/blob/main/HyperBeam.png" align="center"
     height="auto" width="auto"/>
 </p>
 
