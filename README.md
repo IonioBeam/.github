@@ -1,3 +1,16 @@
+<h1 align="center">IonioBeam</h1>
+<br />
+
+<p align="center">
+    <img src="https://github.com/Genesis-The-Beginning/.github/blob/main/HyperBeam.png" align="center"
+    height="auto" width="auto"/>
+</p>
+
+<br />
+<br />
+
+
+
 Ο οργανισμός IonioBeam δημιουργήθηκε από φοιτητές στα πλαίσια του μαθήματος "Τεχνολογία Λογισμικού".
 
 ### Μέλη οργανισμού:
